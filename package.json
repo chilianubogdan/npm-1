@@ -1,0 +1,22 @@
+{
+  "name": "npm_1",
+  "version": "1.0.0",
+  "description": "First NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BogdanChil",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilianubogdan/npm-1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/chilianubogdan/npm-1/issues"
+  },
+  "homepage": "https://github.com/chilianubogdan/npm-1#readme"
+}
